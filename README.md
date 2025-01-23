@@ -1,4 +1,4 @@
-## Tilda ~~ A Fast and Reliable Escape From Tarkov Item Scanner
+# Tilda ~~ A Fast and Reliable Escape From Tarkov Item Scanner
 Tilda is a heavily customizable, lightweight, and quick scanner that helps you easily get useful information about items in Escape From Tarkov while in game.
 
 Gone are the days of having your friend (or yourself) look up that 22 inch barrel that you aren't sure whether is worth 4K or 120K on the flea market.
@@ -13,6 +13,9 @@ All download and install files are available within the Download folder in this 
 
 ![alt text](https://github.com/adrian-griffin/TILDA-EFT/blob/main/Showcase%20Media/ActiveWAutoInspect.gif)
 
+# About
+
+> ⚠️ **Note:** Please note that I have discontinued work on this project as I’ve stopped playing the game and the project was really only intended for my friends' and my own use in game, as well as for fun & a learning exerience; it was a lot of fun to make and use while I played! I may pick this one up again at a later date, especially if there's ever any kind of request for it. Cheers! 💙
 
 
 ## How It Works - Basics:
